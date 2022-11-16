@@ -1,0 +1,3 @@
+[submodule "code/sbox-voxels"]
+	path = code/sbox-voxels
+	url = https://github.com/Facepunch/sbox-voxels
